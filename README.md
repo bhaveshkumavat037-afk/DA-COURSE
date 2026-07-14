@@ -74,4 +74,4 @@ If you have suggestions or feedback, feel free to reach out or open an issue!
 
 ---
 
-⭐ If you find this repository helpful, consider giving it a star!
+⭐ If you find this repository helpful, consider giving it a star! 
